@@ -1,0 +1,4 @@
+file:///C:/Users/nikit/OneDrive/Desktop/bsuir/eyaziis_2/dataset/test_german.html -- German
+Alphabet method:
+Russian:3.3333333333333335%
+German:96.66666666666667%

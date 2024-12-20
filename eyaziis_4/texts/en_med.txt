@@ -1,0 +1,15 @@
+Caitlin Dugdale of Massachusetts General Hospital in Boston and her colleagues examined the results of PCR tests of approximately 15,000 people who had symptoms of COVID-19 or were otherwise suspected of being infected with SARS-CoV-2.
+Almost 2,700 people tested negative, and within two weeks they had a second PCR test.
+Of those who passed the second test, 60, or 2.2%, gave a positive result.
+For 60% of these people, the first test was performed either a day or less before the onset of symptoms, or more than seven days after it, which suggests that a PCR test may be useful in people who have been tested in the early or late stages of infection.
+It will most likely give a false negative result.
+Researchers say that people with COVID-19 symptoms and a negative test result should be retested, especially in areas where the virus is widespread.
+A large-scale study of SARS-CoV-2 transmission in the Hunan province of China showed that the contacts that most likely contributed to the spread of the coronavirus occurred between members of the same household.
+Kaiyuan Sun of the National Institutes of Health in Bethesda, Maryland, Hongjie Yu of Fudan University in Shanghai, China, and their colleagues analyzed data from 1,178 people in Hunan Province infected with SARS-CoV-2 and more than 15,000 close contacts with those infected people.
+The team found that the greatest risk of transmission is from contacts between people living together, followed by contacts between members of a large family.
+The risk of transmission was even lower during social contacts and general meetings, for example, on public transport.
+The team found that each additional day of contact increases the risk of transmission by 10%.
+The analysis shows that isolation in Hunan Province actually increased the risk of spreading the virus in families whose members spent more time together than usual at home during quarantine.
+But transmission on social media and communities has decreased over the same period.
+The "gold standard" for COVID-19 diagnosis is the polymerase chain reaction (PCR) test, which detects the genetic material of the coronavirus in nasal or pharyngeal swabs.
+Now, a survey of more than 15 thousand people has allowed us to find out which people are most likely to give a false negative result on the test.

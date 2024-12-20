@@ -1,0 +1,4 @@
+file:///C:/Users/nikit/OneDrive/Desktop/bsuir/eyaziis_2/dataset/test_russian.html -- Russian
+Alphabet method:
+Russian:88.23529411764706%
+German:14.705882352941178%

@@ -1,0 +1,4 @@
+file:///C:/Users/nikit/OneDrive/Desktop/bsuir/eyaziis_2/dataset/test_german.html -- German
+Grams method:
+Russian:186000
+German:79734

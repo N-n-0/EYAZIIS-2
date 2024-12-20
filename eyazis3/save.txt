@@ -1,0 +1,61 @@
+
+
+Ссылка на документ: C:/Users/nikit/Downloads/eyazis3/texts\rus_med.txt 
+
+~~~ Ключевые слова ~~~
+человек, результат, передачи, 15, COVID-19, SARS-CoV-2, тест, провинции, Хунань, контакты
+
+~~~ Классический реферат ~~~
+Сейчас опрос более 15 тысяч человек позволил выяснить, какие люди с наибольшей вероятностью дадут ложноотрицательный результат на тесте.
+Широкомасштабное исследование передачи SARS-CoV-2 в китайской провинции Хунань показало, что контакты, которые с наибольшей вероятностью способствовали распространению коронавируса, происходили между членами одного и того же домохозяйства.
+Из тех, кто прошел второй тест, 60, или 2,2%, дали положительный результат.
+Команда обнаружила, что наибольший риск передачи инфекции представляют контакты между людьми, живущими вместе, за которыми следуют контакты между членами большой семьи.
+Кейтлин Дагдейл из Массачусетской больницы общего профиля в Бостоне и ее коллеги изучили результаты ПЦР-тестов примерно 15 000 человек, у которых были симптомы COVID-19 или иным образом подозревалось на заражение SARS-CoV-2.
+
+ ~~~ ML реферат ~~~ 
+Кейтлин Дагдейл из Массачусетской больницы общего профиля в Бостоне и ее коллеги изучили результаты ПЦР-тестов примерно 15 000 человек, у которых были симптомы COVID-19 или иным образом подозревалось на заражение SARS-CoV-2. Исследователи говорят, что людям с симптомами COVID-19 и отрицательным результатом теста следует пройти повторное тестирование, особенно в районах, где вирус широко распространен. Широкомасштабное исследование передачи SARS-CoV-2 в китайской провинции Хунань показало, что контакты, которые с наибольшей вероятностью способствовали распространению коронавируса, происходили между членами одного и того же домохозяйства. «Золотым стандартом» диагностики COVID-19 является тест полимеразной цепной реакции (ПЦР), который выявляет генетический материал коронавируса в мазках из носа или зева. Сейчас опрос более 15 тысяч человек позволил выяснить, какие люди с наибольшей вероятностью дадут ложноотрицательный результат на тесте.
+
+Ссылка на документ: C:/Users/nikit/Downloads/eyazis3/texts\rus_art.txt 
+
+~~~ Ключевые слова ~~~
+это, искусство, протяжении, истории, —, людей, Искусство, –, фундаментальная, форма
+
+~~~ Классический реферат ~~~
+Искусство – это фундаментальная форма человеческого самовыражения.
+Подводя итог, можно сказать, что искусство — это универсальный язык, который преодолевает культурные и эмоциональные барьеры, объединяя людей посредством красоты и воображения.
+На протяжении веков искусство было мощным средством изучения культурной самобытности и индивидуального творчества.
+На протяжении всей истории оно развивалось по-разному: от живописи и скульптуры до музыки и танца.
+Художественные галереи и музеи — это места, где выставляются шедевры, вдохновляющие людей и способствующие эстетическому восприятию.
+
+ ~~~ ML реферат ~~~ 
+Художники часто используют свое творчество, чтобы передавать эмоции, рассказывать истории или подвергать сомнению общественный статус-кво. Современное искусство характеризуется своим разнообразием и способностью бросать вызов традиционным нормам. Художественная критика играет важную роль в оценке и понимании произведений искусства. На протяжении веков искусство было мощным средством изучения культурной самобытности и индивидуального творчества. Подводя итог, можно сказать, что искусство — это универсальный язык, который преодолевает культурные и эмоциональные барьеры, объединяя людей посредством красоты и воображения.
+
+Ссылка на документ: C:/Users/nikit/Downloads/eyazis3/texts\deu_med.txt 
+
+~~~ Ключевые слова ~~~
+in, von, der, die, und, das, oder, dass, Menschen, Personen
+
+~~~ Классический реферат ~~~
+Kaiyuan Sun von den National Institutes of Health in Bethesda, Maryland, Hongjie Yu von der Fudan-Universität in Shanghai, China, und ihre Kollegen analysierten Daten von 1.178 Menschen in Hunan, die mit SARS-CoV-2 infiziert waren, und von mehr als 15.000 engen Kontakten dazu infizierte Menschen.
+Eine weitreichende Studie zur Übertragung von SARS-CoV-2 in der chinesischen Provinz Hunan ergab, dass die Begegnungen, die das Coronavirus am wahrscheinlichsten verbreiten, zwischen Mitgliedern desselben Haushalts waren.
+Bei 60 % dieser Personen wurde der erste Test entweder einen Tag oder weniger vor dem Auftreten der Symptome oder mehr als sieben Tage danach durchgeführt, was darauf hindeutet, dass der PCR-Test bei Personen, die früh oder spät im Verlauf der Infektion getestet wurden, höchstwahrscheinlich ein falsch negatives Ergebnis liefert.
+Die Goldstandardmethode zur Diagnose von COVID-19 ist der Polymerase-Kettenreaktionstest (PCR), der das genetische Material des Coronavirus in einem Nasen- oder Rachenabstrich nachweist.
+Caitlin Dugdale vom Massachusetts General Hospital in Boston und ihre Kollegen untersuchten PCR-Testergebnisse von etwa 15.000 Menschen, die COVID-19-Symptome zeigten oder aus anderen Gründen vermutet wurden, dass sie mit SARS-CoV-2 infiziert sind.
+
+ ~~~ ML реферат ~~~ 
+Caitlin Dugdale vom Massachusetts General Hospital in Boston und ihre Kollegen untersuchten PCR-Testergebnisse von etwa 15.000 Menschen, die COVID-19-Symptome zeigten. Fast 2.700 Personen wurden negativ getestet und ließen innerhalb von zwei Wochen einen zweiten PCR-Test durchführen.
+
+Ссылка на документ: C:/Users/nikit/Downloads/eyazis3/texts\deu_art.txt 
+
+~~~ Ключевые слова ~~~
+und, zu, Kunst, eine, der, sich, ihre, ist, Im, Laufe
+
+~~~ Классический реферат ~~~
+Zusammenfassend lässt sich sagen, dass Kunst eine universelle Sprache ist, die kulturelle und emotionale Barrieren überwindet und Menschen durch Schönheit und Fantasie verbindet.
+Zeitgenössische Kunst zeichnet sich durch ihre Vielfalt und ihre Fähigkeit aus, traditionelle Normen in Frage zu stellen.
+Im Laufe der Geschichte hat es sich auf unterschiedliche Weise weiterentwickelt, von Malerei und Bildhauerei bis hin zu Musik und Tanz.
+Die Kunstkritik spielt eine wichtige Rolle bei der Bewertung und dem Verständnis von Kunstwerken.
+Im Laufe der Jahrhunderte war Kunst ein wirkungsvolles Medium zur Erforschung kultureller Identität und individueller Kreativität.
+
+ ~~~ ML реферат ~~~ 
+Kunst ist eine grundlegende Form des menschlichen Ausdrucks. Künstler nutzen ihre Kreativität oft, um

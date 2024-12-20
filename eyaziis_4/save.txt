@@ -1,0 +1,110 @@
+
+
+Ссылка на документ: C:/Users/nikit/OneDrive/Desktop/bsuir/eyaziis_4/texts/en_art.txt
+
+~~~ Содержимое ~~~
+Количество слов: 121.
+Art is a fundamental form of human expression. Throughout history, it has developed in different ways: from painting and sculpture to music and dance. Artists often use their work to convey emotions, tell stories, or question the social status quo. Art galleries and museums are places where masterpieces are exhibited that inspire people and promote aesthetic perception. Contemporary art is characterized by its diversity and ability to challenge traditional norms. Art criticism plays an important role in evaluating and understanding works of art. For centuries, art has been a powerful means of exploring cultural identity and individual creativity. Summing up, we can say that art is a universal language that overcomes cultural and emotional barriers, uniting people through beauty and imagination.
+
+~~~ Перевод ~~~
+Количество слов: 137.
+Kunst ist eine grundlegende Form des menschlichen Ausdrucks. Im Laufe der Geschichte hat es sich auf unterschiedliche Weise entwickelt: von Malerei und Skulptur bis hin zu Musik und Tanz. Künstler nutzen ihre Arbeit oft, um Emotionen zu vermitteln, Geschichten zu erzählen oder den sozialen Status Quo in Frage zu stellen. Kunstgalerien und Museen sind Orte, an denen Meisterwerke ausgestellt werden, die Menschen inspirieren und die ästhetische Wahrnehmung fördern. Die zeitgenössische Kunst zeichnet sich durch ihre Vielfalt und Fähigkeit aus, traditionelle Normen in Frage zu stellen. Kunstkritik spielt eine wichtige Rolle bei der Bewertung und Verständnis von Kunstwerken. Kunst ist seit Jahrhunderten ein kraftvolles Mittel, um kulturelle Identität und individuelle Kreativität zu erforschen. Wenn wir zusammenfassen, können wir sagen, dass Kunst eine universelle Sprache ist, die kulturelle und emotionale Barrieren überwindet und Menschen durch Schönheit und Fantasie vereint. 
+
+~~~ Грамматическая информация ~~~
+	Слово		Перевод		Частота		Часть речи	
+	and		Und 		9		PROPN	
+	art		Kunst 		7		NOUN	
+	is		Ist 		3		X	
+	a		A 		3		PROPN	
+	of		von 		3		PROPN	
+	to		Zu 		3		X	
+	that		Das 		3		VERB	
+	has		hat 		2		VERB	
+	in		In 		2		ADP	
+	are		Sind 		2		NOUN	
+	people		Menschen 		2		PROPN	
+	cultural		kulturell 		2		PROPN	
+	fundamental		grundlegend 		1		ADV	
+	form		bilden 		1		NOUN	
+	human		menschlich 		1		ADV	
+	expression		Ausdruck 		1		NOUN	
+	throughout		hindurch 		1		ADV	
+	history		Geschichte 		1		PROPN	
+	it		Es 		1		X	
+	developed		entwickelt 		1		ADV	
+	different		anders 		1		X	
+	ways		Wege 		1		ADV	
+	:		: 		1		PUNCT	
+	from		aus 		1		X	
+	painting		Malerei 		1		X	
+	sculpture		Skulptur 		1		VERB	
+	music		Musik 		1		PROPN	
+	dance		tanzen 		1		PROPN	
+	artists		Künstler 		1		NOUN	
+	often		oft 		1		VERB	
+	use		verwenden 		1		CCONJ	
+	their		ihre 		1		ADV	
+	work		arbeiten 		1		VERB	
+	convey		vermitteln 		1		X	
+	emotions		Gefühle 		1		NOUN	
+	tell		erzählen 		1		ADV	
+	stories		Geschichten 		1		PROPN	
+	or		oder 		1		X	
+	question		Frage 		1		NOUN	
+	the		Die 		1		X	
+	social		sozial 		1		ADV	
+	status		Status 		1		X	
+	quo		quo 		1		X	
+	galleries		Galerien 		1		PROPN	
+	museums		Museen 		1		NOUN	
+	places		Orte 		1		PROPN	
+	where		Wo 		1		VERB	
+	masterpieces		Meisterwerke 		1		X	
+	exhibited		ausgestellt 		1		PROPN	
+	inspire		inspirieren 		1		PROPN	
+	promote		fördern 		1		ADJ	
+	aesthetic		ästhetisch 		1		PROPN	
+	perception		Wahrnehmung 		1		NOUN	
+	contemporary		zeitgenössisch 		1		PROPN	
+	characterized		charakterisiert 		1		X	
+	by		von 		1		X	
+	its		es ist 		1		CCONJ	
+	diversity		Diversität 		1		PROPN	
+	ability		Fähigkeit 		1		PROPN	
+	challenge		Herausforderung 		1		NOUN	
+	traditional		traditionell 		1		ADV	
+	norms		Normen 		1		PROPN	
+	criticism		Kritik 		1		X	
+	plays		spielt 		1		NOUN	
+	an		ein 		1		ADP	
+	important		wichtig 		1		ADV	
+	role		Rolle 		1		NOUN	
+	evaluating		Bewertung 		1		PROPN	
+	understanding		Verständnis 		1		PROPN	
+	works		Arbeiten 		1		ADV	
+	for		für 		1		PROPN	
+	centuries		Jahrhunderte 		1		PROPN	
+	been		gewesen 		1		NOUN	
+	powerful		kraftvoll 		1		ADV	
+	means		bedeutet 		1		NOUN	
+	exploring		Erkunden 		1		X	
+	identity		Identität 		1		X	
+	individual		Person 		1		ADV	
+	creativity		Kreativität 		1		X	
+	summing		Summierung 		1		X	
+	up		hoch 		1		X	
+	we		Wir 		1		X	
+	can		dürfen 		1		PROPN	
+	say		sagen 		1		NOUN	
+	universal		Universal- 		1		PROPN	
+	language		Sprache 		1		X	
+	overcomes		überwindet 		1		X	
+	emotional		emotional 		1		ADV	
+	barriers		Barrieren 		1		ADV	
+	uniting		Vereinigung 		1		X	
+	through		durch 		1		PROPN	
+	beauty		Schönheit 		1		X	
+	imagination		Vorstellung 		1		NOUN	
+
+~~~ Синтаксическая информация ~~~
+C://Users//nikit//OneDrive//Desktop//bsuir//eyaziis_4//images//en_art_x.png
